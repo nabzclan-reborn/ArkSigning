@@ -282,11 +282,11 @@ Automatically generates a plist file and logs an itms-services:// install link
 - Added support for removing embedded.mobileprovision with `-E` flag
 
 ## Credits
- -**SignerVIP** ([Website](https://signer.vip))
-  
 - **NabzClan** ([Website](https://nabzclan.vip))
   - Dev Team
 - **arinawzad** ([Github](https://github.com/arinawzad))
   - Added support for removing embedded.mobileprovision
 - **zhlynn** ([Github](https://github.com/zhlynn))
   - Original Creator
+ - **SignerVIP** ([Website](https://signer.vip))
+- added ota 
